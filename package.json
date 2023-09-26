@@ -48,7 +48,7 @@
   ],
   "dependencies": {
     "angular": "^1.5.7",
-    "chosen-js": "^1.6.1",
+    "chosen": "edvisor-io/chosen.git#chosen",
     "jquery": "^3.0.0"
   },
   "bugs": {
