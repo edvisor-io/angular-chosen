@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "jquery": "^2.0.3",
-    "chosen": "^1.5.1",
+    "chosen": "edvisor-io/chosen.git#chosen",
     "angular": "^1.4.9"
   },
   "license": "MIT"
